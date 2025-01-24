@@ -4,13 +4,13 @@ This is a JavaScript-based web application designed to facilitate a fun Secret S
 
 ## Features:
 - Add friends' names to the list.
-- Randomly assign a "Secret Santa" for each participant.
+- Randomly assign a "Secret Santa".
 - Prevent duplicate names from being added.
 - Display results dynamically on the webpage.
 
 ## How to Use:
-1. Enter the name of a friend in the input field and click "Add" to add them to the list.
-2. Click "Draw Secret Santa" to start the random selection process.
+1. Enter the name of a friend in the input field and click "Añadir" to add them to the list.
+2. Click "Sortear Amigo" to start the random selection process.
 3. The selected "Secret Santa" will be displayed on the screen, and the list will be updated automatically.
 
 ## Requirements:
